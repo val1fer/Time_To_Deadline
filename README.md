@@ -1,4 +1,4 @@
-# Time_To_Deadline vscode extension
+# Time_To_Deadline VSCode extension
 > Emilia Fatkhullina M3118
 
 The plugin sets a deadline timer. When the deadline is over, the plugin displays a pictureto remind that the deadline was expired.
@@ -10,7 +10,7 @@ The plugin sets a deadline timer. When the deadline is over, the plugin displays
 
 ### Show Time:
 
-shows the system time
+Shows the system time
 
 ### Set Deadline:
 
